@@ -1,4 +1,4 @@
-### Fala ae gente! Eu sou o Vitor Ribeiro!
+### Fala gente! Eu sou o Vitor Ribeiro!
 -🎓Atualmente cursando Análise e Desenvolvimento de Sistemas - Fatec (1/6).
 
 -📘Básico em C++ e Python.
