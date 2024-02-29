@@ -1,7 +1,9 @@
 ### Fala gente! Eu sou o Vitor Ribeiro!
--🎓Atualmente cursando Análise e Desenvolvimento de Sistemas - Fatec (1/6).
+🎓Atualmente cursando Análise e Desenvolvimento de Sistemas - Fatec (1/6).
 
--📘Básico em C++ e Python.
+📘Básico em C++ e Python.
+
+✉️ Email para contato: vitorribeiro.inacio0904@gmail.com
 
 
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=VitorRibeiro024&theme=react&hide_border=false&include_all_commits=false&count_private=false"  width="364px" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=VitorRIbeiro024&theme=react&hide_border=false"  width="400px" /> ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=VitorRibeiro024&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
