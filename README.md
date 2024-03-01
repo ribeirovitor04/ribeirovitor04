@@ -2,7 +2,7 @@
 
 🎓Atualmente cursando Análise e Desenvolvimento de Sistemas - Fatec (1/6).
 
-📘Básico em C++ e Python.
+📘Básico em C++, Python e HTML.
 
 ✉️ Email para contato: vitorribeiro.inacio0904@gmail.com
 
