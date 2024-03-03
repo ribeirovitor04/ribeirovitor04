@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/vitor-ribeiro-0592212b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
-### ⚪Studying in this moment:
+### ⚪ Studying in this moment:
 <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="Raphs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="center" alt="Raphs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 #
 ### [Projeto API - FATEC ](https://github.com/nomadesfatec)
