@@ -8,7 +8,7 @@
   
 <br>
 
-*Meu nome é Vitor Ribeiro, estudante de Análise e Desenvolvimento de Sistemas!* <br><br>
+*Meu nome é Vitor Ribeiro, estudante de programação!* <br><br>
   
   - 🌱 Cursando Análise e Desenvolvimento de Sistema na FATEC São José dos Campos - Prof. Jessen Vidal.<br>
 
