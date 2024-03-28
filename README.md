@@ -28,8 +28,8 @@
 
 <div align="center"> 
 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRibeiro024&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VitorRibeiro024&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=BA55D3&text_color=FFFFFF&bg_color=0d1117" alt="Vitor Ribeiro Inácio github stats" /> 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeirovitor04&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ribeirovitor04&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=BA55D3&text_color=FFFFFF&bg_color=0d1117" alt="Vitor Ribeiro Inácio github stats" /> 
 
 </div>
 
@@ -71,7 +71,7 @@
 <br><br>
 <p align="centre"><b>Visitors Count</b></p> 
 
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FVitorRibeiro024&s=50&c=BA55D3&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fribeirovitor04&s=50&c=BA55D3&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
 <br>
 <div align='center'>
   
