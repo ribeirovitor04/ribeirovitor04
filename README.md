@@ -28,7 +28,8 @@
 
 <div align="center"> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorRibeiro024&theme=tokyonight&icons=true)
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRibeiro024&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VitorRibeiro024&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=BA55D3&text_color=FFFFFF&bg_color=0d1117" alt="Vitor Ribeiro Inácio github stats" /> 
 
 </div>
 
