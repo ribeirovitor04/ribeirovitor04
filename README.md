@@ -34,14 +34,24 @@
 
 <br>
 
-<div align="center">
-  
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ribeiro.vitor04/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-ribeiro-0592212b2/)
+<div align="center"> 
+<a href="https://instagram.com/ribeiro.vitor04" target="_blank">
+<img align="center" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
+</a>
+
+<a href="mailto:vitorribeiro.inacio0904@gmail.com">
+<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
+</a>
+
+<a  href="https://www.linkedin.com/in/vitor-ribeiro-0592212b2/" target=_blank>
+<img align="center"  height="80" width="80" src="https://github.com/VitorRibeiro024/VitorRibeiro024/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
+</a>
 
 </div>
 
-## 🔥 Skills
+<div align="center" >
+
+## 🥇 Studying
 
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
