@@ -68,6 +68,10 @@
   </div>
 
 <br><br>
+<p align="centre"><b>Visitors Count</b></p> 
+
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FVitorRibeiro024&s=50&c=BA55D3&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+<br>
 <div align='center'>
   
   <img src="https://steamuserimages-a.akamaihd.net/ugc/958593419247480689/909BB0450D00A4711F80373527940AF09B4E153E/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Imagem">
