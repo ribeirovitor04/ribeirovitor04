@@ -1,28 +1,68 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C0C0C0&height=120&section=header"/>
+<!--divisor-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C0C0C0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vitor+Ribeiro!;I'm+19+years+old!;I'm+from+Brazil!;I'm+Studying+Analysis+and+Systems+Development!;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VitorRibeiro024&show_icons=true&count_private=true&hide_border=true&title_color=C0C0C0&icon_color=C0C0C0&text_color=c9d1d9&bg_color=696969" alt="Vitor Ribeiro github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRibeiro024&layout=compact&hide_border=true&title_color=C0C0C0&text_color=C0C0C0&bg_color=696969" />
+<!--título-->
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=8C67DB&width=500&height=70&duration=4000&lines=<Hello+World!+👋/>;"/>  
 </div>
+  
+<br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VitorRibeiro024&bg_color=696969&color=C0C0C0&line=000000&point=D3D3D3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+*Meu nome é Vitor Ribeiro, estudante de Análise e Desenvolvimento de Sistemas!* <br><br>
+  
+  - 🌱 Cursando Análise e Desenvolvimento de Sistema na FATEC São José dos Campos - Prof. Jessen Vidal.<br>
+
+  - 🗓️ Atualmente no 1º semestre do ensino superior e rumo ao full-stack!
+
+<details>
+  <summary>👨‍💻 Mais sobre mim </summary>
+  
+  - 💭 Tenho 19 anos, atualmente morando na cidade de São José dos Campos. Estou me desenvolvendo em inglês e minhas habilidades em HTML, CSS e Python.<br>
+  
+  - ⚡ Fã de música (ouço o tempo inteiro) e estudar sempre que possível, afim de expandir meus conhecimentos!
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
 
 <div align="center"> 
-<a href="https://instagram.com/ribeiro.vitor04" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:vitorribeiro.inacio0904@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/vitor-ribeiro-0592212b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
 
-### ⚪ Studying in this moment:
-<img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="Raphs-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="center" alt="Raphs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-#
-### [Projeto API - FATEC ](https://github.com/nomadesfatec)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorRibeiro024&theme=tokyonight&icons=true)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C0C0C0&height=120&section=footer"/>
+</div>
+
+<br>
+
+<div align="center">
+  
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ribeiro.vitor04/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-ribeiro-0592212b2/)
+
+</div>
+
+## 🔥 Skills
+
+  <div style="flex-basis: 48%;">
+    <h3>Programming Languages</h3>
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </div>
+  
+  
+  <div style="flex-basis: 48%;">
+    <h3>Softwares</h3>
+    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  </div>
+
+<br><br>
+<div align='center'>
+  
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/958593419247480689/909BB0450D00A4711F80373527940AF09B4E153E/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Imagem">
+</div>
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
