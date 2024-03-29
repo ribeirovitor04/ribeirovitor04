@@ -19,7 +19,7 @@
   
   - 💭 Tenho 19 anos, atualmente morando na cidade de São José dos Campos. Estou me desenvolvendo em inglês e em minhas habilidades em HTML, CSS e Python.<br>
   
-  - ⚡ Fã de música (ouço o tempo inteiro) e estudar sempre que possível, afim de expandir meus conhecimentos!
+  - ⚡ Fã de música (ouço o tempo inteiro) e estudo sempre que possível, afim de expandir meus conhecimentos!
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
