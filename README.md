@@ -17,7 +17,7 @@
 <details>
   <summary>👨‍💻 Mais sobre mim </summary>
   
-  - 💭 Tenho 19 anos, atualmente morando na cidade de São José dos Campos. Estou me desenvolvendo em inglês e minhas habilidades em HTML, CSS e Python.<br>
+  - 💭 Tenho 19 anos, atualmente morando na cidade de São José dos Campos. Estou me desenvolvendo em inglês e em minhas habilidades em HTML, CSS e Python.<br>
   
   - ⚡ Fã de música (ouço o tempo inteiro) e estudar sempre que possível, afim de expandir meus conhecimentos!
 </details>
