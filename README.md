@@ -75,7 +75,7 @@
 <br>
 <div align='center'>
   
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/958593419247480689/909BB0450D00A4711F80373527940AF09B4E153E/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Imagem">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/1661224712069230981/BFD6A13BBBF6F1A2A7FA6A6DA961E0700E98660A/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="Imagem">
 </div>
 
 <br><br>
