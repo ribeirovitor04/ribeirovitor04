@@ -12,12 +12,12 @@
   
   - 🌱 Cursando Análise e Desenvolvimento de Sistema na FATEC São José dos Campos - Prof. Jessen Vidal.<br>
 
-  - 🗓️ Atualmente no 1º semestre do ensino superior e rumo ao full-stack!
+  - 🗓️ Atualmente no 2º semestre do ensino superior e rumo ao full-stack!
 
 <details>
   <summary>👨‍💻 Mais sobre mim </summary>
   
-  - 💭 Tenho 19 anos, atualmente morando na cidade de São José dos Campos. Estou me desenvolvendo em inglês e em minhas habilidades em HTML, CSS e Python.<br>
+  - 💭 Tenho 19 anos, atualmente morando na cidade de São José dos Campos. Estou me desenvolvendo em inglês e em minhas habilidades em programação.<br>
   
   - ⚡ Fã de música (ouço o tempo inteiro) e estudo sempre que possível, afim de expandir meus conhecimentos!
 </details>
