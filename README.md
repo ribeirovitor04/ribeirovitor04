@@ -76,6 +76,17 @@
   </div>
 
 <br><br>
+
+## Aprendizagem por Projetos Integrados
+Na Fatec SJC, os alunos aprendem a utilizar a metodologia ágil :runner: para desenvolver projetos a cada semestre, baseados em problemas reais. Esses projetos são fornecidos por empresas presentes no Parque Tecnológico, sendo que apenas no primeiro semestre é um projeto interno da Fatec SJC.
+
+-  [x] [1º Semestre](https://github.com/equipeAdalove/API-SEMESTRE1)
+-  [ ] [2º Semestre]
+-  [ ] [3º Semestre]
+-  [ ] [4º Semestre]
+-  [ ] [5º Semestre]
+-  [ ] [6º Semestre]
+
 <p align="centre"><b>Visitors Count</b></p> 
 
 <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fribeirovitor04&s=50&c=BA55D3&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
