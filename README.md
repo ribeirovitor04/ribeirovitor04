@@ -81,7 +81,7 @@
 Na Fatec SJC, os alunos aprendem a utilizar a metodologia ágil :runner: para desenvolver projetos a cada semestre, baseados em problemas reais. Esses projetos são fornecidos por empresas presentes no Parque Tecnológico, sendo que apenas no primeiro semestre é um projeto interno da Fatec SJC.
 
 -  [x] [1º Semestre](https://github.com/equipeAdalove/API-SEMESTRE1)
--  [ ] [2º Semestre]
+-  [x] [2º Semestre]
 -  [ ] [3º Semestre]
 -  [ ] [4º Semestre]
 -  [ ] [5º Semestre]
