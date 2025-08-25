@@ -12,7 +12,7 @@
   
   - 🌱 Cursando Análise e Desenvolvimento de Sistema na FATEC São José dos Campos - Prof. Jessen Vidal.<br>
 
-  - 🗓️ Atualmente no 2º semestre do ensino superior e rumo ao full-stack!
+  - 🗓️ Atualmente no 4º semestre do ensino superior e rumo ao full-stack!
 
 <details>
   <summary>👨‍💻 Mais sobre mim </summary>
